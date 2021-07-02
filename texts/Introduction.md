@@ -14,3 +14,15 @@
 - JRE：Java Runtime Enviroment
 - JVM：Java Virtual Machine （可以用软件或者硬件来实现）
 
+![Introduction_JDK](C:\Users\Asus\Desktop\notes\figures\Introduction_JDK.png)
+
+## 安装IDE
+
+一般使用JDK8，JDK11，JDK12之流无非是加入了一些新特性，最主要的还是JDK8，企业中用的最多的也是JDK8。
+
+Java现在被Oracle公司管理。详情可以见狂神的视频
+
+- jdk的bin目录存放的是编译器如javac等可执行文件
+- jdk的include目录存放的是bin中可执行文件的一些头文件（毕竟可执行文件以前使用C写的）
+- jdk的src.zip文件里放了很多java原生的类，比如math，lang等。
+
