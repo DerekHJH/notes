@@ -26,3 +26,13 @@ Java现在被Oracle公司管理。详情可以见狂神的视频
 - jdk的include目录存放的是bin中可执行文件的一些头文件（毕竟可执行文件以前使用C写的）
 - jdk的src.zip文件里放了很多java原生的类，比如math，lang等。
 
+## 第一个HelloWorld程序
+
+- 可以使用cmd直接进入当前目录的命令行界面
+
+![Introduction_cmd](C:\Users\Asus\Desktop\notes\figures\Introduction_cmd.png)
+
+- java程序里最好不能有中文注释
+- 以下是Helloworld.java程序所对应的运行图
+- ![image-20210702225205448](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210702225205448.png)
+
