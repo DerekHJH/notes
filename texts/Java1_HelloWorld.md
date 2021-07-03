@@ -36,3 +36,14 @@ Java现在被Oracle公司管理。详情可以见狂神的视频
 - 以下是Helloworld.java程序所对应的运行图
 - ![image-20210702225205448](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210702225205448.png)
 
+## Java程序的运行机制
+
+编译型和解释型的结合，现在随着硬件能力的提升，解释的时候也变快了。
+
+![image-20210703102544897](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210703102544897.png)
+
+字节码校验器检查代码有没有写错
+
+## IDEA的安装
+
+详情可见狂神的视频
