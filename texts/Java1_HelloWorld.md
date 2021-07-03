@@ -47,3 +47,12 @@ Java现在被Oracle公司管理。详情可以见狂神的视频
 ## IDEA的安装
 
 详情可见狂神的视频
+
+## IDEA使用
+
+点击File->Project Structure可以看到整个Java项目的结构。其中，每一个高层文件夹都是一个Module。
+
+![image-20210703145314395](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210703145314395.png)
+
+在Project栏目里可以设置JDK以及相应的使用的Java的版本。
+
