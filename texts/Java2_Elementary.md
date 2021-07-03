@@ -20,3 +20,11 @@ Java的注释有三种：
 - 弱类型语言：可以不严格符合使用规定（JavaScript，VBscript）——速度快一点，安全性不太高。e.g. “12” + 3 -> "123"或者123。在Java里面这两种情况是分开的。
 - Java数据类型分为两大类：基本类型(Primitive type)和引用类型(reference type)。
 
+![image-20210703221315393](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210703221315393.png)
+
+需要额外注意的是：
+
+- long而不是long long
+- boolean只占1 bit
+- 浮点数里面用的最多的是double
+- byte相对于C来说像char，而char有两个字节
