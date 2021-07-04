@@ -1,9 +1,11 @@
+package Elementary;
+
 /**
  * This is JavaDoc
  * @Author DerekHJH
  * @Description You can see that "at" plus certain keywords has certain functionality.
  */
-public class Elementary
+public class Elementary1
 {
     public static void main(String[] args)
     {
@@ -25,6 +27,7 @@ public class Elementary
         byte num2 = 200;//overflow
         short num3 = 200;
         long num4 = 1000000L;//we always add an 'L' after a number of type long.
+        //we can also use the lowercase 'l', but it might get people confused since it is like '1'.
         float num5 = 40;//the integer will be first converted into double
         float num6 = 40.1;//Error: initially we regard 40.1 as double
         float num7 = 40.1F;//If we want to use float constant, we need to always add an 'F' after it.
@@ -68,14 +71,26 @@ public class Elementary
         //Nobody will write code like if(flag == true), we always write if(flag).
         //As the saying goes: Less is More.
 
+        //type conversion
+        int haha1 = 128;
+        byte haha2 = haha1;//high to low, error: notice that in C, we can write this way.
+        byte haha3 = (byte)haha1;//-128
+        double haha4 = haha1;//low to high
 
 
+        //an example of conversion
+        char xixi1 = 'a';
+        int xixi2 = xixi1 + 1; // auto conversion
+        System.out.println(xixi2);
+        System.out.println((char)xixi2);//explict conversion
 
+        //JDK7 new features --- numbers can be separated by underscore sign
+        int xixi3 = 1_0000_0000;
 
-
-
-
-
+        int x = 1, y = 2, z = 3;//notice, do not define several variables in one line --- bad style
+        int xx = 1;
+        int yy = 2;
+        int zz = 3;//good style
 
     }
 }

@@ -28,3 +28,36 @@ Java的注释有三种：
 - boolean只占1 bit
 - 浮点数里面用的最多的是double
 - byte相对于C来说像char，而char有两个字节
+
+## 数据类型转换
+
+![image-20210704091552939](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210704091552939.png)
+
+- 强制类型转换，高->低，必须要made explict
+- 自动类型转换，低->高，不需要made explicit
+
+注意：
+
+- 不能对布尔类型的值进行转换---只有一个bit
+- 不能把对象类型转换为不相干的类型
+
+## 变量类型
+
+- 局部变量 (local variable)
+- 实例变量 (instance variable)
+- 类变量 (class variable)
+
+## 变量命名规范
+
+- 类成员变量和局部变量：首字母小写加驼峰原则：monthSalary
+- 常量：全大写加下划线
+- 类名：首字母大写加驼峰原则
+- 方法名：首字母小写加驼峰原则：runMethod()
+
+## 运算符
+
+- 关系运算符中有一个特殊的运算符instanceof
+- 条件运算符：? :
+- 扩展运算符：+=，-=，*=，/=
+- 位运算符>>>
+- 自增运算符++，自减运算符--，都是一元运算符，与C里完全一样

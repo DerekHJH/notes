@@ -44,35 +44,37 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Elementary">
-    <configuration name="Elementary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Elementary" />
+  <component name="RunManager" selected="Application.Elementary1">
+    <configuration name="Elementary1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Elementary.Elementary1" />
       <module name="codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="Elementary.HelloWorld" />
       <module name="codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Elementary" />
+        <item itemvalue="Application.Elementary1" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -88,6 +90,7 @@
       <workItem from="1625281950766" duration="749000" />
       <workItem from="1625294751751" duration="2181000" />
       <workItem from="1625321690130" duration="1995000" />
+      <workItem from="1625360992520" duration="4088000" />
     </task>
     <servers />
   </component>
