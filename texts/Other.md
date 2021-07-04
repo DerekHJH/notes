@@ -2,16 +2,16 @@
 
 ## inline函数
 
-![image-20210704111230063](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210704111230063.png)
+![image-20210704111230063](../figures/image-20210704111230063.png)
 
 - inline函数中，一般不建议有循环、if或switch语句，否则，函数定义时即使有inline关键字，编译器也可能会把该函数作为非内联函数处理。
 -   inline函数要在函数被调用之前声明。
 
 ## 银行家算法
 
-![image-20210704112331754](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210704112331754.png)
+![image-20210704112331754](../figures/image-20210704112331754.png)
 
-![image-20210704112531243](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210704112531243.png)
+![image-20210704112531243](../figures/image-20210704112531243.png)
 
 ## 软件版权常识（以下做法全错）
 

@@ -20,7 +20,7 @@ Java的注释有三种：
 - 弱类型语言：可以不严格符合使用规定（JavaScript，VBscript）——速度快一点，安全性不太高。e.g. “12” + 3 -> "123"或者123。在Java里面这两种情况是分开的。
 - Java数据类型分为两大类：基本类型(Primitive type)和引用类型(reference type)。
 
-![image-20210703221315393](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210703221315393.png)
+![image-20210703221315393](../figures/image-20210703221315393.png)
 
 需要额外注意的是：
 
@@ -31,7 +31,7 @@ Java的注释有三种：
 
 ## 数据类型转换
 
-![image-20210704091552939](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210704091552939.png)
+![image-20210704091552939](../figures/image-20210704091552939.png)
 
 - 强制类型转换，高->低，必须要made explict
 - 自动类型转换，低->高，不需要made explicit
@@ -59,5 +59,19 @@ Java的注释有三种：
 - 关系运算符中有一个特殊的运算符instanceof
 - 条件运算符：? :
 - 扩展运算符：+=，-=，*=，/=
-- 位运算符>>>
+- 位运算符>>>是无符号右移，~是取反
 - 自增运算符++，自减运算符--，都是一元运算符，与C里完全一样
+
+## 包机制
+
+- 说白了就是文件夹
+
+- 一般利用公司域名倒置作为包名：www.baidu.com 则包名为com.baidu.www
+- 在特定文件夹中的java程序开头第一行必须是package
+- import在package后面，一旦import Elementary.Elementary1，则Elementary1这个类可以直接使用而不需要拖着前缀名字。
+- import *（正则表达式通配符），导入所有类
+
+## JavaDoc
+
+![image-20210704220900209](../figures/image-20210704220900209.png)
+

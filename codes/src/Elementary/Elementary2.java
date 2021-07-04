@@ -13,9 +13,9 @@ public class Elementary2
     public static void main(String[] args)
     {
         int i = 1;//local variable, and it needs to be initialized
-        int a;
+        //int a;
         System.out.println(i);
-        System.out.println(a);//a is a local variable without initialization
+        //System.out.println(a);//a is a local variable without initialization
 
 
 

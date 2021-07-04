@@ -14,7 +14,7 @@
 - JRE：Java Runtime Enviroment
 - JVM：Java Virtual Machine （可以用软件或者硬件来实现）
 
-![Introduction_JDK](C:\Users\Asus\Desktop\notes\figures\Introduction_JDK.png)
+![Introduction_JDK](../figures/Introduction_JDK.png)
 
 ## 安装IDE
 
@@ -30,7 +30,7 @@ Java现在被Oracle公司管理。详情可以见狂神的视频
 
 - 可以使用cmd直接进入当前目录的命令行界面
 
-![Introduction_cmd](C:\Users\Asus\Desktop\notes\figures\Introduction_cmd.png)
+![Introduction_cmd](../figures/Introduction_cmd.png)
 
 - java程序里最好不能有中文注释
 - 以下是Helloworld.java程序所对应的运行图
@@ -40,7 +40,7 @@ Java现在被Oracle公司管理。详情可以见狂神的视频
 
 编译型和解释型的结合，现在随着硬件能力的提升，解释的时候也变快了。
 
-![image-20210703102544897](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210703102544897.png)
+![image-20210703102544897](../figures/image-20210703102544897.png)
 
 字节码校验器检查代码有没有写错
 
@@ -52,7 +52,7 @@ Java现在被Oracle公司管理。详情可以见狂神的视频
 
 点击File->Project Structure可以看到整个Java项目的结构。其中，每一个高层文件夹都是一个Module。
 
-![image-20210703145314395](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210703145314395.png)
+![image-20210703145314395](../figures/image-20210703145314395.png)
 
 在Project栏目里可以设置JDK以及相应的使用的Java的版本。
 
