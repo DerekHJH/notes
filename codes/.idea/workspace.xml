@@ -45,13 +45,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Demo2 (1)">
-    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlowControl.Demo1" />
+  <component name="RunManager" selected="Application.Demo2 (2)">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Demo1" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FlowControl.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,6 +65,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Demo2" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,37 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Elementary.Demo3" />
-      <module name="codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Elementary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2 (2)" />
+        <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Demo2 (1)" />
         <item itemvalue="Application.Demo3 (1)" />
         <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo1 (1)" />
-        <item itemvalue="Application.Demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +149,7 @@
       <workItem from="1625402330767" duration="3233000" />
       <workItem from="1625448322203" duration="3756000" />
       <workItem from="1625465369323" duration="2190000" />
+      <workItem from="1625468542070" duration="3074000" />
     </task>
     <servers />
   </component>
