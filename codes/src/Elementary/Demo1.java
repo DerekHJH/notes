@@ -5,7 +5,7 @@ package Elementary;
  * @Author DerekHJH
  * @Description You can see that "at" plus certain keywords has certain functionality.
  */
-public class Elementary1
+public class Demo1
 {
     public static void main(String[] args)
     {

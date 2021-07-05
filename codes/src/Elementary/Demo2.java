@@ -1,6 +1,6 @@
 package Elementary;
 
-public class Elementary2
+public class Demo2
 {
     String name = "haha";
     String name2; //instance variables do not have to be initialized, by default, they are all zeros or nulls(objects)
@@ -20,8 +20,8 @@ public class Elementary2
 
 
         //Now we want to use instance variables --- name and name2 above
-        Elementary2 elementary2 = new Elementary2();
-        System.out.println(elementary2.name2);
+        Demo2 demo2 = new Demo2();
+        System.out.println(demo2.name2);
 
         //now we want to use class variables --- sit and fck above
         System.out.println(sit);

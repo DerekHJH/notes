@@ -9,7 +9,7 @@ import java.util.concurrent.ExecutionException;
  *
  */
 //This JavaDoc is to describe the whole class
-public class Elementary4
+public class Demo4
 {
     String name;
 
