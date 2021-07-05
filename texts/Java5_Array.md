@@ -2,13 +2,13 @@
 
 ## Java内存
 
-![image-20210705151305059](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210705151305059.png)
+![image-20210705151305059](../figures/image-20210705151305059.png)
 
 - 声明的时候，数组并不存在。只有创建的时候才会在堆区中开辟空间。一旦发生越界，Java会抛出异常。
 
 ## 数组初始化
 
-![image-20210705151820876](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210705151820876.png)
+![image-20210705151820876](../figures/image-20210705151820876.png)
 
 ## 数组特点
 

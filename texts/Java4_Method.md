@@ -10,13 +10,13 @@
 
 ## 重载
 
-![image-20210705143506740](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210705143506740.png)
+![image-20210705143506740](../figures/image-20210705143506740.png)
 
 ## 可变参数
 
 - 本质是个变长数组
 
-![image-20210705144746469](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210705144746469.png)
+![image-20210705144746469](../figures/image-20210705144746469.png)
 
 ## 递归
 
