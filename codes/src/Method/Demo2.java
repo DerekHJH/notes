@@ -15,7 +15,7 @@ public class Demo2
         System.out.println(a[2]);
     }
     //static method, can be used directly in the class definition part
-    //without static, it is instance method, we will have to declare an instance to use this method
+    //without static, it is non-static method, we will have to declare an instance to use this method
 
     public void tst(int ...a)
     {
